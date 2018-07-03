@@ -1,0 +1,24 @@
+{
+  "generator-ngx-rocket": {
+    "version": "5.0.1",
+    "props": {
+      "location": "path",
+      "appName": "mNS",
+      "target": [
+        "web",
+        "cordova"
+      ],
+      "pwa": true,
+      "mobile": [
+        "ios",
+        "android"
+      ],
+      "ui": "bootstrap",
+      "auth": true,
+      "lazy": true,
+      "angulartics": false,
+      "projectName": "m-ns",
+      "packageManager": "npm"
+    }
+  }
+}
